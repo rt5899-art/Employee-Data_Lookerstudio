@@ -1,7 +1,3 @@
-It appears that the repository [https://github.com/rt5899-art/Employee-Data_Lookerstudio](https://github.com/rt5899-art/Employee-Data_Lookerstudio) is either private, has restricted access, or does not exist.
-
-Since I cannot browse the specific files in your repo, I have created a professional, structured README.md template tailored for an Employee Data Analysis project visualized in Looker Studio. You can copy the code below and fill in the details.
-
 Employee Data Analysis (Looker Studio)
 📌 Project Overview
 This project focuses on analyzing organizational employee data to derive actionable insights regarding workforce demographics, performance, and operational efficiency. The analysis is visualized through an interactive dashboard built in Google Looker Studio.
