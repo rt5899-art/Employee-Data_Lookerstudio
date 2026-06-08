@@ -53,6 +53,9 @@ Presentation Layer: Custom Looker Studio Component Layout
 
 The dashboard is organized into a single page with the following components:
 
+
+![image alt](https://github.com/rt5899-art/Employee-Data_Lookerstudio/blob/main/Empdata_looker%20studio.png?raw=true)
+
 At the top, five KPI cards display the headline metrics: Total Employees (1,000), Working Employees (897), Median Salary ($92,806), Exit Rate (10.30%), and the Female-to-Male Ratio (1.06). Three filters sit in the top-left corner — a department dropdown, an age range slider, and a date range selector — which apply across all visuals simultaneously.
 
 The middle row contains the top-10 salary leaderboard table on the left, a horizontal bar chart showing total annual salary by job title in the center, and a donut chart showing the gender split (53.2% female, 46.8% male) on the right.
@@ -62,10 +65,6 @@ The bottom row contains a line chart tracking the number of employee records by 
 ---
 
 ## Key Insights
-
-From dashboard we can infer :
-
-![image alt](https://github.com/rt5899-art/Employee-Data_Lookerstudio/blob/main/Empdata_looker%20studio.png?raw=true)
 
 An evaluation of the metrics processed across the workforce analytics interface reveals the following operational insights:
 
