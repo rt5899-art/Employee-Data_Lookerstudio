@@ -4,7 +4,7 @@
 
 This repository contains an enterprise workforce analytics project developed using Google Looker Studio. The primary purpose of this project is to aggregate human resource metrics, salary structures, demographic breakdowns, and global distribution patterns into a centralized reporting interface. By consolidating disparate workforce data points, the dashboard addresses the challenge of siloed HR tracking, helping organizational leaders monitor employee counts, identify retention risks, evaluate compensation equity, and make data-driven decisions regarding talent acquisition and resource allocation.
 
-## Live Project Link: https://datastudio.google.com/s/tAOCWEsKxpI
+#### Live Project Link: https://datastudio.google.com/s/tAOCWEsKxpI
 
 ---
 
