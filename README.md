@@ -1,7 +1,7 @@
 ## Employee Data Analytics Dashboard
 An interactive, data-driven HR Analytics Dashboard built to monitor organizational health, workforce demographics, salary distributions, and hiring trends. This dashboard translates raw employee data into actionable strategic insights for executive decision-making.
 
-#### Project Repository: [Employee-Data_Lookerstudio](https://datastudio.google.com/s/tAOCWEsKxpI)
+#### Project Link: [Employee-Data_Lookerstudio](https://datastudio.google.com/s/tAOCWEsKxpI)
 
 #### Dashboard Preview
 
