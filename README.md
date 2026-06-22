@@ -17,17 +17,17 @@ This project delivers a comprehensive workforce overview by analyzing 1,000 tota
 •	Key Features: Interactive Geo-Maps, Tree-maps, Time-Series Forecasting Trends, and Dynamic KPI Cards.
 
  ### Key Business Insights
-•	Workforce Capacity: Currently managing 1,000 total employees, with 897 active working employees and an exit rate of 10.30%.
+•	**Workforce Capacity:** Currently managing 1,000 total employees, with 897 active working employees and an exit rate of 10.30%.
 
-•	Compensation Standards: The organization commands a Median Salary of $92,806, with executive leadership roles (Vice Presidents and Directors) consuming the highest cumulative annual salary blocks.
+•	**Compensation Standards:** The organization commands a Median Salary of $92,806, with executive leadership roles (Vice Presidents and Directors) consuming the highest cumulative annual salary blocks.
 
-•	Gender Diversity: Maintained a healthy gender balance with a Female-to-Male ratio of 1.06 (53.2% Female vs. 46.8% Male).
+•	**Gender Diversity:** Maintained a healthy gender balance with a Female-to-Male ratio of 1.06 (53.2% Female vs. 46.8% Male).
 
-•	Departmental Distribution: Specialty Products holds the majority share with 266 employees, followed closely by Corporate (254) and Research & Development (254).
+•	**Departmental Distribution:** Specialty Products holds the majority share with 266 employees, followed closely by Corporate (254) and Research & Development (254).
 
-•	Hiring Momentum: Record counts have seen exponential growth over the years, escalating drastically post-2013 and peaking near 2021.
+•	**Hiring Momentum:** Record counts have seen exponential growth over the years, escalating drastically post-2013 and peaking near 2021.
 
-•	Geographic Footprint: Strong global talent concentration predominantly centered in North America, with emerging footprints in South America and Asia.
+•	**Geographic Footprint:** Strong global talent concentration predominantly centered in North America, with emerging footprints in South America and Asia.
 
 ### Strategic Recommendations
 
